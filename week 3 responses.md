@@ -3,7 +3,10 @@
 </head>
 
 <body>
-<h1>First Generation Poetry Generatotrs</h1>
+
+<h>1 
+
+<h>1First Generation Poetry Generatotrs</h1>
 <p>Christopher Funkhouser provides an engrossing examination of the early attempts at computer-generated poetry in "First Generation Poetry Generators," shedding light on an intriguing nexus between literary expression and technology. Funkhouser explores the beginnings of computational creativity via painstaking investigation and perceptive analysis, following its development from its infancy to its significant ramifications for the poetry community.
 
 Funkhouser's analysis of the theoretical foundations of computer-generated poetry is among his most interesting pieces of work. He challenges readers' preconceptions about what it means to create poetry by challenging the nature of authorship and creativity in the context of algorithmic creation. The book persuasively poses interesting queries on the place of the human creator in the context of ever-more-advanced technological instruments.
@@ -13,4 +16,11 @@ Additionally, Funkhouser's investigation of early algorithms and programs intend
 "First Generation Poetry Generators" gives a thorough history of the evolution of computer-generated poetry, but it doesn't go far enough in examining the social and cultural ramifications of this technical phenomena. A more thorough analysis of topics like the democratization of artistic expression, the commercialization of creativity, and the morality of algorithmic authorship would enhance the conversation and provide a more comprehensive perspective on the topic.
 
 All things considered, Funkhouser's book is a fascinating and thought-provoking read for everyone curious about the nexus between technology and literature. He encourages readers to consider the opportunities and difficulties of using computational tools for artistic expression in the digital age by outlining the early history of computer-generated poetry.</p>
+
+
+<h>1 
+<p>K. Silem Mohammad's poems "Spooked" and "Considering How Spooky Deer Are" provide fascinating insights into issues of terror, the paranormal, and the eerie. In "Spooked," Mohammad uses language and vivid images to evoke a sense of dread while urging readers to ponder the unsettling beauty of the natural world. The poem blurs the lines between the extraordinary and the commonplace by examining the junction of the macabre and the banal.
+</p>
+
+
 </body>
