@@ -1,1 +1,3 @@
+In her book "Weapons of Math Destruction," Cathy O'Neil provides an engaging analysis of the far-reaching effects algorithms have on our culture. O'Neil's book acts as a wake-up call, challenging readers to consider the widespread use of mathematical models in decision-making across a range of fields.
 
+O'Neil's analysis of algorithmic bias is one of the book's most thought-provoking features. She skillfully demonstrates how algorithms, far from being neutral instruments, have the ability to maintain and even worsen already-existing societal injustices. O'Neil reveals the underlying biases in algorithms and how they harm underprivileged people with striking examples that span from internet advertising to predictive policing.
