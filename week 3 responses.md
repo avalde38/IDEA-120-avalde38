@@ -1,5 +1,4 @@
 <head>
-<title>Week 3 Responses</title>
 </head>
 
 <body>
