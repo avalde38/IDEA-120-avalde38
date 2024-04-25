@@ -1,1 +1,1 @@
-
+<p> Anthropy contends that regardless of technical proficiency or familiarity with conventional game design, anybody may make meaningful games. She encourages disadvantaged voices to use games to express their experiences by promoting a do-it-yourself approach to game design. The book challenges the predominance of big-budget, popular games by discussing the value of varied viewpoints and personal expression in gaming. Anthropy emphasizes experimentation and originality above conformity to industry standards.<p/>
